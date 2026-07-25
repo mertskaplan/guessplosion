@@ -1,0 +1,293 @@
+{
+    "id": "absurt-rastlantilar.tr",
+    "name": "Absürt rastlantılar",
+    "language": "tr",
+    "difficulty": "hard",
+    "words": [
+        {
+            "term": "Sosisli sandviç",
+            "hint": "Uzun bir ekmeğin arasına haşlanmış et ürünü konularak yapılan Amerikan sokak lezzeti.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çoban matı",
+            "hint": "Satrançta oyunu çok erken bitiren en bilindik ve hızlı yenilgi hamlesi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Penguen",
+            "hint": "Güney kutbunda yaşayan, uçamayan ama çok iyi yüzen smokin görünümlü kuş.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kredi borcu",
+            "hint": "Bankadan alınan paranın zamanı geldiğinde faiziyle birlikte geri ödenmesi gereken tutar.",
+            "difficulty": 1
+        },
+        {
+            "term": "Deniz kızı",
+            "hint": "Üst kısmı insan, alt kısmı balık şeklinde tasvir edilen mitolojik karakter.",
+            "difficulty": 1
+        },
+        {
+            "term": "Lav",
+            "hint": "Yanardağlardan püsküren, aşırı sıcak ve akışkan erimiş kayaç.",
+            "difficulty": 1
+        },
+        {
+            "term": "Klavye delikanlısı",
+            "hint": "Gerçek hayatta cesareti olmayan ama internet ortamında herkese kafa tutan kişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Dört kollu",
+            "hint": "Ölülerin mezarlığa taşınırken içine konduğu tabutun halk arasındaki mecazi adı.",
+            "difficulty": 2
+        },
+        {
+            "term": "Sinek",
+            "hint": "Yaz aylarında etrafta uçuşarak insanı rahatsız eden küçük vızıltılı böcek.",
+            "difficulty": 1
+        },
+        {
+            "term": "Bumerang",
+            "hint": "Fırlatıldığında havada kavis çizerek sahibine geri dönen alet.",
+            "difficulty": 1
+        },
+        {
+            "term": "Gerdek",
+            "hint": "Evlenen çiftlerin düğün sonrası ilk geceyi baş başa geçirdikleri an.",
+            "difficulty": 2
+        },
+        {
+            "term": "Muz kabuğu",
+            "hint": "Çizgi filmlerde karakterlerin üzerine basıp kayarak düştüğü sarı meyve artığı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Balık hafızalı",
+            "hint": "Duyduğu veya yaşadığı şeyleri çok çabuk unutan kişiler için kullanılan benzetme.",
+            "difficulty": 2
+        },
+        {
+            "term": "Gece kulübü",
+            "hint": "Yüksek sesli müzik eşliğinde dans edilen ve geç saatlere kadar açık olan eğlence mekanı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Ejderha",
+            "hint": "Ağzından ateş püskürten, pullarla kaplı ve uçabilen devasa efsanevi sürüngen.",
+            "difficulty": 1
+        },
+        {
+            "term": "Marshmallow",
+            "hint": "Kamp ateşinde çubuğa takılarak kızartılan, pofuduk ve tatlı şekerleme.",
+            "difficulty": 1
+        },
+        {
+            "term": "Diş ipi",
+            "hint": "Fırçanın ulaşamadığı aralıklardaki yemek artıklarını temizlemek için kullanılan ince tel.",
+            "difficulty": 1
+        },
+        {
+            "term": "Hayal kırıklığı",
+            "hint": "Beklenilen veya umut edilen bir şeyin gerçekleşmemesi sonucu yaşanan üzüntü.",
+            "difficulty": 2
+        },
+        {
+            "term": "Deve kuşu",
+            "hint": "Tehlike anında kafasını kuma gömdüğüne inanılan uçamayan hayvan.",
+            "difficulty": 1
+        },
+        {
+            "term": "Bekarlığa veda partisi",
+            "hint": "Düğünden kısa bir süre önce arkadaş grubuyla yapılan son kutlama.",
+            "difficulty": 2
+        },
+        {
+            "term": "Komşu kızı",
+            "hint": "Romantik filmlerde sıkça karşılaşılan, hemen yandaki evde oturan ve genellikle aşık olunan karakter.",
+            "difficulty": 1
+        },
+        {
+            "term": "İpe un sermek",
+            "hint": "İstenilen bir işi yapmamak için çeşitli, mantıksız ve geçersiz bahaneler üretmek.",
+            "difficulty": 2
+        },
+        {
+            "term": "Japon yapıştırıcısı",
+            "hint": "Kırılan eşyaları çok hızlı ve güçlü bir şekilde birbirine tutturmayı sağlayan sıvı kimyasal.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çöp kamyonu",
+            "hint": "Sokaklardaki atık dolu konteynerleri boşaltıp toplayan büyük araç.",
+            "difficulty": 1
+        },
+        {
+            "term": "Külçe altın",
+            "hint": "Bankalarda veya merkez bankalarında rezerv olarak tutulan, eritilip dikdörtgen şekli verilmiş değerli maden.",
+            "difficulty": 1
+        },
+        {
+            "term": "Amfibi",
+            "hint": "Hem karada hem de suda yaşayabilen canlıların veya çalışabilen araçların genel biyolojik adı.",
+            "difficulty": 3
+        },
+        {
+            "term": "Diyet kola",
+            "hint": "İçinde şeker barındırmayan ama tatlandırıcı sayesinde aynı lezzeti veren gazlı siyah içecek.",
+            "difficulty": 1
+        },
+        {
+            "term": "Körüklü otobüs",
+            "hint": "Ortasından akordeon gibi katlanabilir bir mafsalla birleştirilmiş, çok yolcu taşıyan uzun araç.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kaktüs",
+            "hint": "Çöllerde yetişen, suyu gövdesinde depolayan ve üzeri dikenlerle kaplı bitki.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çıkar telefonunu",
+            "hint": "Sokak röportajlarında yaşlıların gençlere ekonomik durumun iyi olduğunu kanıtlamak için söylediği meşhur replik.",
+            "difficulty": 2
+        },
+        {
+            "term": "İlk görüşte aşk",
+            "hint": "Birini gördüğü ilk andan itibaren ona karşı çok yoğun duygular hissetme durumu.",
+            "difficulty": 1
+        },
+        {
+            "term": "Lambader",
+            "hint": "Odaların köşesine konulan ve genellikle ayağı uzun olan ayaklı aydınlatma aracı.",
+            "difficulty": 2
+        },
+        {
+            "term": "Klaç çanta",
+            "hint": "Kadınların özel davetlerde kullandığı, sapı olmayan ve elde taşınan küçük zarf şeklindeki aksesuar.",
+            "difficulty": 3
+        },
+        {
+            "term": "Karpal tünel sendromu",
+            "hint": "Sürekli bilgisayar kullananlarda görülen, bilekteki sinir sıkışması sonucu oluşan rahatsızlık.",
+            "difficulty": 3
+        },
+        {
+            "term": "Sunucu",
+            "hint": "İnternet üzerindeki servisleri ve verileri barındırarak kullanıcılara kesintisiz hizmet veren güçlü bilgisayar.",
+            "difficulty": 2
+        },
+        {
+            "term": "Koşu bandı",
+            "hint": "Kapalı alanda tempolu adım atmayı sağlayan antrenman aleti.",
+            "difficulty": 1
+        },
+        {
+            "term": "Reklam engelleyici",
+            "hint": "İnternette gezinirken istenmeyen tanıtımları, izleyicileri ve açılır pencereleri gizleyen eklenti.",
+            "difficulty": 2
+        },
+        {
+            "term": "Vantilatör",
+            "hint": "Yaz sıcağında serinlemek için pervanesi hızla dönerek rüzgar üreten elektrikli alet.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kum saati",
+            "hint": "İçindeki ince taneciklerin dar bir boğazdan aşağı dökülmesiyle zamanı ölçen cam eşya.",
+            "difficulty": 1
+        },
+        {
+            "term": "Şömine",
+            "hint": "Evlerin salonunda genellikle odun yakılarak hem ısınılan hem de dekoratif duran ocak.",
+            "difficulty": 1
+        },
+        {
+            "term": "Stetoskop",
+            "hint": "Doktorların hastanın sırtını veya göğsünü dinlerken kulaklarına taktığı alet.",
+            "difficulty": 2
+        },
+        {
+            "term": "Çelik kasa",
+            "hint": "Değerli eşyaları ve paraları hırsızlardan korumak için kullanılan şifreli ağır dolap.",
+            "difficulty": 1
+        },
+        {
+            "term": "Daktilo",
+            "hint": "Tuşlarına basıldığında mürekkepli şerit üzerinden kağıda harf basan eski yazı makinesi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Plak",
+            "hint": "Üzerindeki ince yivler sayesinde gramofonda müzik çalınmasını sağlayan siyah disk.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kuluçka",
+            "hint": "Kuşların yumurtadan yavru çıkarmak için üzerine yattıkları gelişim dönemi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Termos",
+            "hint": "İçine konulan sıvıların sıcaklığını veya soğukluğunu uzun süre koruyan yalıtımlı kap.",
+            "difficulty": 1
+        },
+        {
+            "term": "Porselen",
+            "hint": "Fincan ve tabak yapımında kullanılan, ince ve zarif seramik türü.",
+            "difficulty": 2
+        },
+        {
+            "term": "Mürekkep",
+            "hint": "Dolmakalemle yazı yazmak için kullanılan, genellikle siyah veya mavi renkli sıvı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kundak",
+            "hint": "Yeni doğan bebeklerin hareket etmemesi ve üşümemesi için sıkıca sarıldığı bez.",
+            "difficulty": 2
+        },
+        {
+            "term": "Girdap",
+            "hint": "Suların kendi etrafında hızla dönerek oluşturduğu ve içine çeken çukur.",
+            "difficulty": 2
+        },
+        {
+            "term": "Manken",
+            "hint": "Moda defilelerinde yeni tasarım kıyafetleri podyumda yürüyerek sergileyen kişi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Panzehir",
+            "hint": "Yılan veya akrep sokmalarında vücuda yayılan zehrin etkisini yok eden ilaç.",
+            "difficulty": 2
+        },
+        {
+            "term": "Rönesans",
+            "hint": "Avrupa'da sanat, bilim ve düşünce alanında yaşanan büyük yeniden doğuş dönemi.",
+            "difficulty": 3
+        },
+        {
+            "term": "Halüsinasyon",
+            "hint": "Gerçekte var olmayan sesleri duyma veya görüntüleri görme şeklindeki algı yanılması.",
+            "difficulty": 2
+        },
+        {
+            "term": "Prompter",
+            "hint": "Televizyon sunucularının veya siyasetçilerin kameraya bakarak metin okumasını sağlayan ekran.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kulaktan kulağa",
+            "hint": "Bir kelimenin fısıldanarak elden ele aktarılıp sonda neye dönüştüğünü bulmaya dayalı çocuk oyunu.",
+            "difficulty": 1
+        },
+        {
+            "term": "Deveye hendek atlatmak",
+            "hint": "Birine laf anlatmanın veya zor bir işi yaptırmanın imkansızlığını anlatan deyim.",
+            "difficulty": 2
+        }
+    ]
+}

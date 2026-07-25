@@ -1,0 +1,433 @@
+{
+  "id": "zıpir-aktorler.tr",
+  "name": "Zıpır aktörler (7-15 yaş arası)",
+  "language": "tr",
+  "difficulty": "easy",
+  "words": [
+    {
+      "term": "Elma",
+      "hint": "Ağaçta yetişen, kırmızı veya yeşil kabuklu çıtır meyve.",
+      "difficulty": 1
+    },
+    {
+      "term": "Sandalye",
+      "hint": "Üzerine oturmak için tasarlanmış dört ayaklı ev eşyası.",
+      "difficulty": 1
+    },
+    {
+      "term": "Köpek",
+      "hint": "İnsanın en sadık dostu olarak bilinen havlayan evcil hayvan.",
+      "difficulty": 1
+    },
+    {
+      "term": "Kedi",
+      "hint": "Miyavlama sesiyle tanınan, tüylü ve evcil sevimli hayvan.",
+      "difficulty": 1
+    },
+    {
+      "term": "Balon",
+      "hint": "İçine hava üflenerek şişirilen renkli esnek oyunca.",
+      "difficulty": 1
+    },
+    {
+      "term": "Dondurma",
+      "hint": "Soğuk ve tatlı, yaz aylarında külah içinde yenen lezzet.",
+      "difficulty": 1
+    },
+    {
+      "term": "Diş fırçası",
+      "hint": "Ağız temizliğinde kullanılan saplı küçük araç.",
+      "difficulty": 1
+    },
+    {
+      "term": "Şapka",
+      "hint": "Baş bölgesini güneşten veya soğuktan korumak için takılan giysi.",
+      "difficulty": 1
+    },
+    {
+      "term": "Güneş",
+      "hint": "Gündüzleri dünyaya ısı ve ışık veren büyük yıldız.",
+      "difficulty": 1
+    },
+    {
+      "term": "Ay",
+      "hint": "Geceleri gökyüzünde parlak bir küre olarak görünen dünyanın uydu.",
+      "difficulty": 1
+    },
+    {
+      "term": "Uçak",
+      "hint": "Kanatları sayesinde gökyüzünde seyahat etmeyi sağlayan motorlu hava taşıtı.",
+      "difficulty": 1
+    },
+    {
+      "term": "Bisiklet",
+      "hint": "İki tekerlekli, pedallar yardımıyla ilerleyen taşıt.",
+      "difficulty": 1
+    },
+    {
+      "term": "Televizyon",
+      "hint": "Evlerde oturma odalarında sesli ve görüntülü yayın izlenen kutu.",
+      "difficulty": 1
+    },
+    {
+      "term": "Süper kahraman",
+      "hint": "Özel güçleri olan ve dünyayı kurtaran kurgusal karakter.",
+      "difficulty": 1
+    },
+    {
+      "term": "Hayalet",
+      "hint": "Korku hikayelerinde geçen, görünmez olduğuna inanılan ruhsal varlık.",
+      "difficulty": 1
+    },
+    {
+      "term": "Kalem",
+      "hint": "Yazı yazmak veya çizim yapmak için kullanılan uçlu veya tükenmez gereç.",
+      "difficulty": 1
+    },
+    {
+      "term": "Saat",
+      "hint": "Zamanın kaç olduğunu gösteren bileğe takılan veya duvara asılan cihaz.",
+      "difficulty": 1
+    },
+    {
+      "term": "Fil",
+      "hint": "Hortumu ve büyük kulaklarıyla tanınan büyük kara memelisi.",
+      "difficulty": 1
+    },
+    {
+      "term": "Balık",
+      "hint": "Suda yaşayan, solungaçlarıyla nefes alan yüzgeçli canlı.",
+      "difficulty": 1
+    },
+    {
+      "term": "Basketbol",
+      "hint": "Turuncu bir topu yüksekteki fileye sokarak oynanan takım sporu.",
+      "difficulty": 1
+    },
+    {
+      "term": "Patlamış mısır",
+      "hint": "Sinemada tüketilen, ısıtıldığında taneleri patlayan atıştırmalık.",
+      "difficulty": 1
+    },
+    {
+      "term": "Robot",
+      "hint": "Programlanabilir mekanik bileşenlerden teknolojik makine.",
+      "difficulty": 1
+    },
+    {
+      "term": "Sandviç",
+      "hint": "İki dilim ekmek arasına peynir ve domates koyarak hazırlanan öğün.",
+      "difficulty": 1
+    },
+    {
+      "term": "Sarılmak",
+      "hint": "Sevgiyi göstermek için kollar yapılan kavrama hareketi.",
+      "difficulty": 1
+    },
+    {
+      "term": "Dinozor",
+      "hint": "Milyonlarca yıl önce yaşamış devasa canlı.",
+      "difficulty": 1
+    },
+    {
+      "term": "Güneş gözlüğü",
+      "hint": "Parlak ışıktan korunmak için takılan renkli camlı aksesuar.",
+      "difficulty": 1
+    },
+    {
+      "term": "Muz",
+      "hint": "Sarı renkli ve soyulabilen kabuğu olan tropikal meyve.",
+      "difficulty": 1
+    },
+    {
+      "term": "Okyanus",
+      "hint": "Kıtaları birbirinden ayıran çok büyük ve derin su kütlesi.",
+      "difficulty": 1
+    },
+    {
+      "term": "Merdiven",
+      "hint": "Katlar arasında inip çıkmayı sağlayan basamaklar dizisi.",
+      "difficulty": 1
+    },
+    {
+      "term": "Ayna",
+      "hint": "Karşısına geçildiğinde görüntüyü yansıtan parlak cam yüzey.",
+      "difficulty": 1
+    },
+    {
+      "term": "Pizza",
+      "hint": "Üzerine peynir ve çeşitli malzemeler konulup fırında pişen İtalyan hamur işi.",
+      "difficulty": 1
+    },
+    {
+      "term": "Peluş ayı",
+      "hint": "Çocukların uyurken sarıldığı yumuşak oyuncak.",
+      "difficulty": 1
+    },
+    {
+      "term": "Kardan adam",
+      "hint": "Kışın yağan beyaz örtüyü toplayarak yapılan heykelcik.",
+      "difficulty": 1
+    },
+    {
+      "term": "Yağmur",
+      "hint": "Bulutlardan yeryüzüne su damlaları halinde düşen hava olayı.",
+      "difficulty": 1
+    },
+    {
+      "term": "İtfaiyeci",
+      "hint": "Yangınları söndürmek ve zor durumda kalanları kurtarmakla görevli kişi.",
+      "difficulty": 1
+    },
+    {
+      "term": "Futbol",
+      "hint": "Ayakla vurularak oynanan ve topun kaleye sokulmaya çalışıldığı spor.",
+      "difficulty": 1
+    },
+    {
+      "term": "Kek",
+      "hint": "Un, yumurta ve şekerle fırında pişirilen tatlı hamur yiyeceği.",
+      "difficulty": 1
+    },
+    {
+      "term": "Örümcek",
+      "hint": "Sekiz bacaklı ve ağ örme yeteneğine sahip küçük böcek.",
+      "difficulty": 1
+    },
+    {
+      "term": "Tren",
+      "hint": "Raylar üzerinde hareket eden vagonlardan oluşan uzun demir yolu taşıtı.",
+      "difficulty": 1
+    },
+    {
+      "term": "Yüzme",
+      "hint": "Havuzda veya denizde kolları kullanarak su üstünde ilerleme sporu.",
+      "difficulty": 1
+    },
+    {
+      "term": "Buz",
+      "hint": "İçecekleri soğutmak için dondurucuda katılaştırılmış su parçası.",
+      "difficulty": 1
+    },
+    {
+      "term": "Kurbağa",
+      "hint": "Yeşil renkli, suda ve karada yaşayabilen zıplayan hayvan.",
+      "difficulty": 1
+    },
+    {
+      "term": "Postacı",
+      "hint": "Evlere mektup ve kargoları ulaştıran görevli.",
+      "difficulty": 1
+    },
+    {
+      "term": "Zürafa",
+      "hint": "Uzun boynu sayesinde yüksek ağaç yapraklarını yiyen Afrika hayvanı.",
+      "difficulty": 1
+    },
+    {
+      "term": "Baloncuk",
+      "hint": "Sabunlu sudan üflenerek oluşturulan uçucu şeffaf küre.",
+      "difficulty": 1
+    },
+    {
+      "term": "Dağ",
+      "hint": "Çevresine göre çok yüksek olan dik yamaçlı yer şekli.",
+      "difficulty": 1
+    },
+    {
+      "term": "Klima",
+      "hint": "Yazın ortamı serinletmek, kışın ısıtmak için kullanılan elektrikli cihaz.",
+      "difficulty": 1
+    },
+    {
+      "term": "Amca",
+      "hint": "Babanın erkek kardeşine verilen akrabalık unvanı.",
+      "difficulty": 1
+    },
+    {
+      "term": "Futbol topu",
+      "hint": "Yeşil sahada ayakla sürülen siyah beyaz desenli yuvarlak cisim.",
+      "difficulty": 1
+    },
+    {
+      "term": "Büyücü",
+      "hint": "Masallarda sihirli değnekle olağanüstü işler yapan gizemli kişi.",
+      "difficulty": 1
+    },
+    {
+      "term": "Kaplumbağa",
+      "hint": "Sırtında sert bir kabuk taşıyan yavaş yürüyen sürüngen.",
+      "difficulty": 1
+    },
+    {
+      "term": "Havai fişek",
+      "hint": "Özel kutlamalarda gökyüzünde renkli patlamalar yaratan eğlence malzemesi.",
+      "difficulty": 2
+    },
+    {
+      "term": "Kanguru",
+      "hint": "Yavrularını önündeki kesesinde taşıyan Avustralyalı zıplayan hayvan.",
+      "difficulty": 2
+    },
+    {
+      "term": "Şeker",
+      "hint": "Çocukların tatlı ihtiyacını karşılayan renkli ambalajlı ikram.",
+      "difficulty": 2
+    },
+    {
+      "term": "Yastık",
+      "hint": "Yatarken başı rahat koymak için kullanılan yumuşak dolgulu eşya.",
+      "difficulty": 2
+    },
+    {
+      "term": "Salyangoz",
+      "hint": "Sırtında kabuğuyla çok yavaş hareket eden yumuşakça.",
+      "difficulty": 2
+    },
+    {
+      "term": "Diş macunu",
+      "hint": "Fırçanın üzerine sıkılarak ağız hijyeni sağlayan köpüklü jel.",
+      "difficulty": 2
+    },
+    {
+      "term": "Yunus",
+      "hint": "Denizlerde yaşayan, zekasıyla bilinen sevimli memeli.",
+      "difficulty": 2
+    },
+    {
+      "term": "Kovboy",
+      "hint": "Vahşi batı temalı filmlerde görülen şapkalı atlı karakter.",
+      "difficulty": 2
+    },
+    {
+      "term": "Süperman",
+      "hint": "Kırmızı peleriniyle uçabilen ve özel güçlere sahip kurgusal kahraman.",
+      "difficulty": 2
+    },
+    {
+      "term": "Krep",
+      "hint": "Tavada incecik pişirilen, kahvaltıda reçelle yenen hamur.",
+      "difficulty": 2
+    },
+    {
+      "term": "Volkan",
+      "hint": "Yer altından kızgın lav püskürten dağ biçimli coğrafi yapı.",
+      "difficulty": 2
+    },
+    {
+      "term": "Tek boynuzlu at",
+      "hint": "Alnının ortasında sivri ve sert kemik bulunan efsanevi masal hayvanı.",
+      "difficulty": 2
+    },
+    {
+      "term": "Alarm",
+      "hint": "Sabahları uyanmak için kurulan yüksek sesli uyarı zili.",
+      "difficulty": 2
+    },
+    {
+      "term": "Çikolata",
+      "hint": "Kakao çekirdeğinden yapılan, kahverengi tatlı yiyecek.",
+      "difficulty": 2
+    },
+    {
+      "term": "Deniz kızı",
+      "hint": "Masallarda yarı insan yarı balık şeklinde tasvir edilen varlık.",
+      "difficulty": 2
+    },
+    {
+      "term": "Gökkuşağı",
+      "hint": "Yağmur sonrası havada beliren rengarenk yay şeklindeki ışık.",
+      "difficulty": 2
+    },
+    {
+      "term": "Palyaço",
+      "hint": "Sirklerde kırmızı burun ve komik kıyafetlerle insanları güldüren sanatçı.",
+      "difficulty": 2
+    },
+    {
+      "term": "Hazine",
+      "hint": "Sandıklar dolusu altın ve mücevherlerin saklandığı gizli servet.",
+      "difficulty": 2
+    },
+    {
+      "term": "Maymun",
+      "hint": "Ağaçlarda yaşayan, muz yemeyi seven hareketli primat.",
+      "difficulty": 2
+    },
+    {
+      "term": "Plaj",
+      "hint": "Yaz tatilinde güneşlenmek ve kumda oynamak için gidilen sahil.",
+      "difficulty": 2
+    },
+    {
+      "term": "Roket",
+      "hint": "Uzaya astronot veya uydu fırlatmakta kullanılan dikey araç.",
+      "difficulty": 2
+    },
+    {
+      "term": "Dans",
+      "hint": "Müzik ritmine uyularak yapılan estetik vücut hareketleri.",
+      "difficulty": 2
+    },
+    {
+      "term": "Şef",
+      "hint": "Restoran mutfaklarında yemekleri hazırlayan baş aşçı.",
+      "difficulty": 2
+    },
+    {
+      "term": "İp atlamak",
+      "hint": "İki kişinin çevirdiği uzun halat ile üzerinden zıplanan çocuk oyunu.",
+      "difficulty": 2
+    },
+    {
+      "term": "Ninja",
+      "hint": "Uzak doğu kültüründe siyah giysiler giyen gizli dövüşçü.",
+      "difficulty": 2
+    },
+    {
+      "term": "Papağan",
+      "hint": "İnsanların çıkardığı sesleri ve kelimeleri taklit edebilen renkli kuş.",
+      "difficulty": 2
+    },
+    {
+      "term": "Yıldırım",
+      "hint": "Fırtınalı havalarda gökyüzü ile yer arasında oluşan elektrik boşalması.",
+      "difficulty": 2
+    },
+    {
+      "term": "Buz pateni",
+      "hint": "Soğuk zemin üzerinde ayaklara takılan bıçaklı ayakkabılarla yapılan kayma sporu.",
+      "difficulty": 2
+    },
+    {
+      "term": "Deniz yıldızı",
+      "hint": "Okyanus tabanında yaşayan beş kollu omurgasız canlı.",
+      "difficulty": 2
+    },
+    {
+      "term": "Gitar",
+      "hint": "Tellerine parmaklarla vurularak çalınan müzik aleti.",
+      "difficulty": 2
+    },
+    {
+      "term": "Alışveriş arabası",
+      "hint": "Marketlerde ürünleri doldurup taşımak için sürülen tekerlekli sepet.",
+      "difficulty": 3
+    },
+    {
+      "term": "Sabun",
+      "hint": "Elleri ve vücudu yıkarken köpürerek temizlik sağlayan kalıp.",
+      "difficulty": 3
+    },
+    {
+      "term": "Kelebek",
+      "hint": "Tırtıldan dönüşen, rengarenk kanatlarıyla çiçekten çiçeğe konan zarif böcek.",
+      "difficulty": 3
+    },
+    {
+      "term": "Palto",
+      "hint": "Soğuk kış günlerinde dışarı çıkarken giyilen kalın dış giysi.",
+      "difficulty": 3
+    }
+  ]
+}

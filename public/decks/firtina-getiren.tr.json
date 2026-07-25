@@ -1,0 +1,348 @@
+{
+    "id": "fırtına-getiren.tr.json",
+    "name": "Fırtına getiren deste",
+    "language": "tr",
+    "difficulty": "hard",
+    "words": [
+        {
+            "term": "Buzdağı",
+            "hint": "Denizde yüzen, büyük kısmı su altında kalan dev kütle.",
+            "difficulty": 1
+        },
+        {
+            "term": "Yerebatan Sarnıcı",
+            "hint": "İstanbul’da sütunlarla dolu, zemin altındaki eski su deposu.",
+            "difficulty": 2
+        },
+        {
+            "term": "Yastık savaşı",
+            "hint": "Eğlence için yumuşak nesnelerle yapılan şenlikli kapışma.",
+            "difficulty": 1
+        },
+        {
+            "term": "Puantiye",
+            "hint": "Kumaşta ya da desende görülen küçük, sık ve yuvarlak benekler.",
+            "difficulty": 1
+        },
+        {
+            "term": "Şeytanın bacağını kırmak",
+            "hint": "Uzun süren ters gidişten sonra sonunda şansı yakalamak.",
+            "difficulty": 2
+        },
+        {
+            "term": "Bebek bezi",
+            "hint": "Küçük çocukların altına bağlanan, sıvı tutan ürün.",
+            "difficulty": 1
+        },
+        {
+            "term": "Jelibon",
+            "hint": "Renkli, yumuşak, tatlı ve esnek şekerleme.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çamur at izi kalsın",
+            "hint": "Asılsız suçla birinin adını kirletme çabası.",
+            "difficulty": 3
+        },
+        {
+            "term": "Yırtık çorap",
+            "hint": "Ön kısmı ya da topuğu açılmış, kullanılmaktan eskiyen giysi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Güvenli kelime",
+            "hint": "Riskli bir oyunu durdurmak için önceden kararlaştırılan özel ifade.",
+            "difficulty": 3
+        },
+        {
+            "term": "Burnundan kıl aldırmamak",
+            "hint": "Eleştiriye kapalı ve aşırı özgüvenli biçimde davranmak.",
+            "difficulty": 2
+        },
+        {
+            "term": "Konfeti",
+            "hint": "Kutlamalarda havaya saçılan küçük renkli kâğıt parçaları.",
+            "difficulty": 1
+        },
+        {
+            "term": "Tasdikname",
+            "hint": "Öğrencinin ayrıldığı kurumdan aldığı resmî öğrenim kâğıdı.",
+            "difficulty": 3
+        },
+        {
+            "term": "Overlok makinesi",
+            "hint": "Kumaş kenarını düzgün kapatıp sökülmeyi önleyen dikiş aracı.",
+            "difficulty": 2
+        },
+        {
+            "term": "Peri bacası",
+            "hint": "Doğal aşınmayla oluşmuş, yüksek ve ince kaya şekli.",
+            "difficulty": 2
+        },
+        {
+            "term": "Yoyo",
+            "hint": "İpi sayesinde aşağı inip yukarı dönen basit oyuncak.",
+            "difficulty": 1
+        },
+        {
+            "term": "Hayalet avcısı",
+            "hint": "Görünmeyen varlıkları araştırdığını iddia eden kişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Perili ev",
+            "hint": "İçinde doğaüstü varlıkların yaşadığına inanılan terk edilmiş yapı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Denizanası",
+            "hint": "Şeffaf görünümlü, suda süzülen jelatinimsi canlı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Habil ile Kabil",
+            "hint": "Kıskançlık yüzünden aralarında trajik çekişme geçen iki kardeş.",
+            "difficulty": 3
+        },
+        {
+            "term": "Alarm erteleme",
+            "hint": "Sabah uyanınca birkaç dakika daha kazanmak için kurulan ek süre.",
+            "difficulty": 1
+        },
+        {
+            "term": "Veresiye",
+            "hint": "Ödeme yapmadan alınan, sonra kapatılacak alışveriş türü.",
+            "difficulty": 2
+        },
+        {
+            "term": "Rubik küpü",
+            "hint": "Renkli yüzleri doğru düzene getirmeye çalışılan döner bulmaca.",
+            "difficulty": 2
+        },
+        {
+            "term": "Sünnet düğünü",
+            "hint": "Penis derisinin kısaltılması sıraında yapılan eğlence.",
+            "difficulty": 2
+        },
+        {
+            "term": "Balon",
+            "hint": "İçine hava doldurularak şişirilen, hafif ve renkli nesne.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çorba",
+            "hint": "Kaşıkla içilen, sıcak ve sulu yemek.",
+            "difficulty": 1
+        },
+        {
+            "term": "Tavşan",
+            "hint": "Uzun kulaklı, hızlı ve ürkek küçük hayvan.",
+            "difficulty": 1
+        },
+        {
+            "term": "Salıncak",
+            "hint": "İki nokta arasında gidip gelen eğlence aracı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Pijama",
+            "hint": "Gece uyurken giyilen rahat kıyafet.",
+            "difficulty": 1
+        },
+        {
+            "term": "Düğme",
+            "hint": "Giyside iliklemeye yarayan küçük parça.",
+            "difficulty": 1
+        },
+        {
+            "term": "Fırça",
+            "hint": "Yüzeyleri temizlemek ya da boyamak için kullanılan araç.",
+            "difficulty": 1
+        },
+        {
+            "term": "Korna",
+            "hint": "Araçların dikkat çekmek için çıkardığı yüksek sesli uyarı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çivi",
+            "hint": "Tahtaya ya da duvara çakılan ince metal parça.",
+            "difficulty": 1
+        },
+        {
+            "term": "Mandal",
+            "hint": "Çamaşır ipinde eşyayı tutturmaya yarayan küçük aparat.",
+            "difficulty": 1
+        },
+        {
+            "term": "Sepet",
+            "hint": "Eşyaları taşımak için kullanılan kulplu taşıma kabı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Dürbün",
+            "hint": "Uzağı büyüterek görmeyi sağlayan optik araç.",
+            "difficulty": 1
+        },
+        {
+            "term": "Yelken",
+            "hint": "Rüzgârı kullanarak tekneyi ilerleten kumaş parça.",
+            "difficulty": 1
+        },
+        {
+            "term": "Bayrak",
+            "hint": "Bir topluluğu ya da yeri temsil eden renkli kumaş.",
+            "difficulty": 1
+        },
+        {
+            "term": "Dejavu",
+            "hint": "Daha önce yaşanmış gibi gelen garip tanıdıklık hissi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kütle çekimi",
+            "hint": "Cisimleri birbirine doğru yakınlaştıran temel doğal etki.",
+            "difficulty": 3
+        },
+        {
+            "term": "Antika",
+            "hint": "Geçmiş dönemlerden kalmış, değerli sayılan eşya.",
+            "difficulty": 2
+        },
+        {
+            "term": "Şifre çözme",
+            "hint": "Kapalı bir düzeni anlaşılır hale getirme işi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Gölge oyunu",
+            "hint": "Işık ve perdeyle figürler canlandıran geleneksel gösteri.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kayıp şehir",
+            "hint": "Zamanla terk edilip haritadan silinmiş yerleşim.",
+            "difficulty": 2
+        },
+        {
+            "term": "Maket uçak",
+            "hint": "Genellikle yolcu taşıyan hava aracının küçük ölçekte hazırlanmış modeli.",
+            "difficulty": 2
+        },
+        {
+            "term": "Ay takvimi",
+            "hint": "Zamanı gökyüzündeki değişimlere göre düzenleyen hesap sistemi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Sahne ışığı",
+            "hint": "Dikkati bir noktaya toplayan güçlü aydınlatma.",
+            "difficulty": 2
+        },
+        {
+            "term": "Navigasyon",
+            "hint": "Bir yerden diğerine en uygun yolu bulma süreci.",
+            "difficulty": 2
+        },
+        {
+            "term": "Satranç tahtası",
+            "hint": "Dama desenli, hamlelerin yapıldığı oyun zemini.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kurt adam",
+            "hint": "Dolunayda insan biçiminden vahşi bir yaratığa dönüştüğü anlatılan figür.",
+            "difficulty": 2
+        },
+        {
+            "term": "Muzlu gofret",
+            "hint": "İnce katmanlı, tatlı kremayla kaplı atıştırmalık.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kafa ütülemek",
+            "hint": "Uzun uzun konuşup birini aşırı derecede bunaltmak.",
+            "difficulty": 2
+        },
+        {
+            "term": "Karikatür dergisi",
+            "hint": "Çizgi mizahı ve esprili görseller yayımlayan yayın.",
+            "difficulty": 1
+        },
+        {
+            "term": "Sinek ilacı arabası",
+            "hint": "Böceklerle mücadele için sokaklarda dolaşan püskürtme aracı.",
+            "difficulty": 2
+        },
+        {
+            "term": "Röveşata",
+            "hint": "Futbolda geriye doğru havalanarak yapılan gösterişli vuruş.",
+            "difficulty": 2
+        },
+        {
+            "term": "Ombre",
+            "hint": "Saçta koyudan açığa doğru yumuşak renk geçişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Dedikodu kazanı",
+            "hint": "Sürekli söylenti üreten, hareketli ve laf dolu ortam.",
+            "difficulty": 2
+        },
+        {
+            "term": "Köpek öldüren",
+            "hint": "Çok sert, yakıcı ve kalitesiz içki için kullanılan argo.",
+            "difficulty": 3
+        },
+        {
+            "term": "Lama",
+            "hint": "Tükürmesiyle meşhur, uzun boyunlu bir hayvan.",
+            "difficulty": 1
+        },
+        {
+            "term": "Yılan dansı",
+            "hint": "Müzik eşliğinde bedeni kıvrılarak yapılan, ritmik bir dans.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kovboy",
+            "hint": "Sürü güden, at üstünde gezen figür.",
+            "difficulty": 1
+        },
+        {
+            "term": "Hanımcı",
+            "hint": "Eşinin sözüne çok bağlı davranan erkek için kullanılan halk deyişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Buz parmak",
+            "hint": "El şeklinde olan dondurma.",
+            "difficulty": 1
+        },
+        {
+            "term": "Krypton",
+            "hint": "Süpermen'in gezegeni.",
+            "difficulty": 2
+        },
+        {
+            "term": "Reşit",
+            "hint": "Hukuken yetişkin sayılacak yaşa ulaşmış kişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Halay başı",
+            "hint": "Toplu dansın en önünde adım ve ritim veren kişi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Sincap",
+            "hint": "Ağaçlarda çevikçe dolaşan, kabarık kuyruklu küçük memeli.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çanak tutmak",
+            "hint": "Bir tartışmayı ya da olumsuz davranışı dolaylı biçimde desteklemek.",
+            "difficulty": 3
+        }
+    ]
+}

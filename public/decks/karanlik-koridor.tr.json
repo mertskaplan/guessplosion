@@ -1,0 +1,233 @@
+{
+    "id": "karanlik-koridor.tr",
+    "name": "Karanlık koridor",
+    "language": "tr",
+    "difficulty": "hard",
+    "words": [
+        {
+            "term": "Kıl testere",
+            "hint": "İnce ve dişli teli olan, ahşapta ince kıvrımlı kesimler yapmaya yarayan küçük el aracı.",
+            "difficulty": 2
+        },
+        {
+            "term": "Şimşir tarak",
+            "hint": "Kel başa sahip insanların ihtiyacı olmadığı anlamına gelen deyimde yer alan saç düzenleme aracı.",
+            "difficulty": 2
+        },
+        {
+            "term": "Musalla taşı",
+            "hint": "Cenaze namazı öncesi tabutun konulduğu, avlularda bulunan yükseltilmiş mermer platform.",
+            "difficulty": 2
+        },
+        {
+            "term": "Düz kontak",
+            "hint": "Anahtar kullanmadan bir aracın elektrik sistemini kablo birleştirerek çalıştırma yöntemi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Pembe teskere",
+            "hint": "Askerlik hizmetine cinsel yönelimi nedeniyle uygun bulunmayanlara verilen resmi belge.",
+            "difficulty": 2
+        },
+        {
+            "term": "Çöpçatan",
+            "hint": "Bekar insanları birbiriyle tanıştırıp evlilik yolunda aracılık eden kişi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Sapan",
+            "hint": "İki ucuna lastik bağlanmış Y şeklinde dal veya metal parçasıyla taş fırlatma aracı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Jandarma",
+            "hint": "Kırsal bölgelerde asayişten sorumlu, hem askeri hem güvenlik görevi üstlenen teşkilat.",
+            "difficulty": 1
+        },
+        {
+            "term": "Elma şekeri",
+            "hint": "Çubuğa geçirilmiş meyvenin kırmızı, karamelize kaplamayla kaplanmış hali.",
+            "difficulty": 1
+        },
+        {
+            "term": "Beş saniye kuralı",
+            "hint": "Yere düşen yiyeceğin kısa sürede alınırsa hâlâ yenilebilir sayıldığına dair şakacı inanış.",
+            "difficulty": 2
+        },
+        {
+            "term": "Öpücük",
+            "hint": "Sevgi göstergesi olarak dudakla yapılan temas.",
+            "difficulty": 1
+        },
+        {
+            "term": "Berduş",
+            "hint": "Belli bir işi ve düzeni olmadan başıboş dolaşan kişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Yaka silkme",
+            "hint": "Birinden usanıp ilişkiyi bitirmek anlamına gelen deyim.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kul hakkı",
+            "hint": "Bir insana maddi veya manevi verilen zararın dini ve ahlaki karşılığı olan kavram.",
+            "difficulty": 2
+        },
+        {
+            "term": "Muska",
+            "hint": "İçine dua yazılı kağıt konulan, kötülüklerden korunmak için taşınan üçgen kumaş parçası.",
+            "difficulty": 1
+        },
+        {
+            "term": "Cin çarpması",
+            "hint": "Halk inanışında görünmez varlıkların insana ani rahatsızlık verdiğine dair açıklama biçimi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Ebegümeci",
+            "hint": "Kırlarda kendiliğinden yetişen, yemeği yapılan yeşil yapraklı bir bitki.",
+            "difficulty": 2
+        },
+        {
+            "term": "Sülük",
+            "hint": "Suda yaşayan, deriye yapışıp kan emen halkalı solucan.",
+            "difficulty": 1
+        },
+        {
+            "term": "Nasır",
+            "hint": "Ayak tabanında sürtünme sonucu oluşan sert deri kalınlaşması.",
+            "difficulty": 1
+        },
+        {
+            "term": "Sırat köprüsü",
+            "hint": "Dini inanışlarda ahirette geçilmesi gereken, kıldan ince kılıçtan keskin yol.",
+            "difficulty": 2
+        },
+        {
+            "term": "Ölüm orucu",
+            "hint": "Bir talebi kabul ettirmek için hayatını riske atarak yemeği tamamen bırakma eylemi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kefen",
+            "hint": "Cenazenin gömülmeden önce sarıldığı beyaz bez.",
+            "difficulty": 1
+        },
+        {
+            "term": "Yeraltı dünyası",
+            "hint": "Ölülerin ruhlarının gittiğine inanılan, mitolojide sıkça geçen karanlık diyar.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kerberos",
+            "hint": "Yunan mitolojisinde ölüler diyarının kapısını bekleyen üç başlı canavar.",
+            "difficulty": 3
+        },
+        {
+            "term": "Rorschach testi",
+            "hint": "Mürekkep lekelerine bakarak kişinin zihin dünyasını yorumlamaya çalışan bir psikolojik değerlendirme yöntemi.",
+            "difficulty": 3
+        },
+        {
+            "term": "Şeytanın avukatı",
+            "hint": "Bir tartışmada gerçekten inanmadığı halde karşı görüşü savunan kişiyi tanımlayan deyim.",
+            "difficulty": 2
+        },
+        {
+            "term": "Truva atı",
+            "hint": "Dışarıdan zararsız görünüp içine gizlenen tehlikeyle güven kazanan hileli hediye.",
+            "difficulty": 1
+        },
+        {
+            "term": "Nihilizm",
+            "hint": "Hiçbir değerin veya anlamın gerçek temeli olmadığını savunan felsefi görüş.",
+            "difficulty": 3
+        },
+        {
+            "term": "Ateşten gömlek",
+            "hint": "Kabul edildiğinde çok zor sonuçlar doğuracak sorumluluk için kullanılan deyim.",
+            "difficulty": 2
+        },
+        {
+            "term": "Rüzgar gülü",
+            "hint": "Duruma göre sürekli fikir değiştiren kişiyi anlatan benzetme, aynı zamanda yön gösteren alet.",
+            "difficulty": 2
+        },
+        {
+            "term": "Devlet kuşu",
+            "hint": "Beklenmedik büyük bir şansın kişinin başına konduğunu anlatan deyim.",
+            "difficulty": 1
+        },
+        {
+            "term": "Ecel teri",
+            "hint": "Aşırı korku veya panik anında insanın döktüğü sıvı için kullanılan deyim.",
+            "difficulty": 2
+        },
+        {
+            "term": "Dut yemiş bülbül",
+            "hint": "Bir olay karşısında şaşkınlıktan konuşamayan kişiyi anlatan benzetme.",
+            "difficulty": 2
+        },
+        {
+            "term": "Eşek şakası",
+            "hint": "Karşı tarafı bilerek zor durumda bırakan, sınırları zorlayan şaka türü.",
+            "difficulty": 1
+        },
+        {
+            "term": "Turnayı gözünden vurmak",
+            "hint": "Beklenmedik şekilde çok isabetli bir sonuç elde etmeyi anlatan deyim.",
+            "difficulty": 2
+        },
+        {
+            "term": "Sapına kadar",
+            "hint": "Bir işi ya da tavrı sonuna kadar, tavizsiz biçimde sürdürmeyi anlatan pekiştirme ifadesi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Fingirdek",
+            "hint": "Aşırı cilveli ve gösterişli tavırlar sergileyen kişi için kullanılan argo tabir.",
+            "difficulty": 2
+        },
+        {
+            "term": "Zibidi",
+            "hint": "Tuhaf ve gülünç kıyafetlerle dolaşan kişiyi küçümseyerek tanımlayan argo söz.",
+            "difficulty": 3
+        },
+        {
+            "term": "Mangalda kül bırakmamak",
+            "hint": "Aslında yapamayacağı halde büyük laflar edip övünen kişi için kullanılan deyim.",
+            "difficulty": 2
+        },
+        {
+            "term": "Süt dökmüş kedi gibi",
+            "hint": "Bir suçu üstlenmiş gibi mahcup ve sessiz duran kişiyi anlatan benzetme.",
+            "difficulty": 2
+        },
+        {
+            "term": "Palavra",
+            "hint": "Gerçekle ilgisi olmayan, abartılı ve inandırıcılığı düşük söz.",
+            "difficulty": 1
+        },
+        {
+            "term": "Derin öğrenme",
+            "hint": "Yapay sinir ağlarının katmanlı yapısıyla veriden örüntü çıkarmasını sağlayan yöntem.",
+            "difficulty": 2
+        },
+        {
+            "term": "Simülasyon teorisi",
+            "hint": "Gerçekliğin aslında ileri bir bilgisayar tarafından üretildiğini öne süren düşünce.",
+            "difficulty": 3
+        },
+        {
+            "term": "Kod adı",
+            "hint": "Gizli bir operasyon veya kişiyi tanımlamak için kullanılan takma isim.",
+            "difficulty": 1
+        },
+        {
+            "term": "Panoptikon",
+            "hint": "Tek bir gözetmenin herkesi görebildiği ama kimsenin ne zaman izlendiğini bilemediği hapishane tasarımı fikri.",
+            "difficulty": 3
+        }
+    ]
+}

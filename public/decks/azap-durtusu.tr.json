@@ -1,0 +1,418 @@
+{
+    "id": "azap-durtusu.tr",
+    "name": "Azap dürtüsü",
+    "language": "tr",
+    "difficulty": "hard",
+    "words": [
+        {
+            "term": "Beyaz atlı prens",
+            "hint": "Masallarda genç kızı kurtarmaya gelen, soylu ve yakışıklı kahraman.",
+            "difficulty": 1
+        },
+        {
+            "term": "Hulahop",
+            "hint": "Genellikle plastikten yapılan, belde çevrilerek oynanan halka.",
+            "difficulty": 1
+        },
+        {
+            "term": "Müsvedde kağıt",
+            "hint": "Karalama yapmak veya not almak için kullanılan, temiz olmayan sayfa.",
+            "difficulty": 1
+        },
+        {
+            "term": "Patlamış mısır",
+            "hint": "Sinemada film izlerken tüketilen, ısıtılınca şişen sarı tahıl çerezi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Darbuka",
+            "hint": "Orta Doğu müziğinde sıkça ritim tutulan, deriden yapılma vurmalı çalgı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Ruj izi",
+            "hint": "Dudak boyasının yanakta veya gömlek yakasında bıraktığı leke.",
+            "difficulty": 1
+        },
+        {
+            "term": "Salyangoz",
+            "hint": "Sırtında sarmal bir kabuk taşıyan, yavaş hareket eden nemli canlı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Sokak kedisi",
+            "hint": "Evsiz olan ve genellikle çöplerden beslenen bağımsız evcil hayvan.",
+            "difficulty": 1
+        },
+        {
+            "term": "Palyaço",
+            "hint": "Yüzünü boyayıp komik kıyafetler giyerek insanları eğlendiren şovmen.",
+            "difficulty": 1
+        },
+        {
+            "term": "Spagetti",
+            "hint": "Çatala dolanarak yenen uzun ve ince İtalyan hamur işi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kahve falı",
+            "hint": "Fincanda kalan tortunun şekillerine bakarak geleceği okuma ritüeli.",
+            "difficulty": 1
+        },
+        {
+            "term": "Balık kraker",
+            "hint": "Özellikle çocukların sevdiği, deniz canlısı şeklindeki tuzlu atıştırmalık.",
+            "difficulty": 1
+        },
+        {
+            "term": "Görüldü atmak",
+            "hint": "Mesajlaşma uygulamalarında karşı tarafın yazdıklarını okuyup cevap vermemek.",
+            "difficulty": 1
+        },
+        {
+            "term": "Böcek",
+            "hint": "Karınca, sinek, hamamböceği gibi altı bacaklı küçük canlıların genel adı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Dondurma külahı",
+            "hint": "Soğuk tatlıları içine koyup yalamak için kullanılan huni şeklindeki bisküvi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Vampir",
+            "hint": "Geceleri mezarından çıkıp insanların kanını emdiğine inanılan mitolojik varlık.",
+            "difficulty": 1
+        },
+        {
+            "term": "Tek tekerlekli bisiklet",
+            "hint": "Genelde sirklerde akrobatların dengede durarak sürdüğü, sadece selesi ve pedalı olan araç.",
+            "difficulty": 1
+        },
+        {
+            "term": "Telve",
+            "hint": "Türk kahvesi içildikten sonra fincanın dibinde kalan koyu renkli tortu.",
+            "difficulty": 1
+        },
+        {
+            "term": "Aspirin",
+            "hint": "Baş ağrısı ve ateşe karşı en çok bilinen yuvarlak beyaz hap.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kundura",
+            "hint": "Genellikle erkeklerin takım elbise altına giydiği klasik deri ayakkabı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çakmaktaşı",
+            "hint": "Birbirine sürtüldüğünde kıvılcım çıkaran ve ateş yakmaya yarayan sert maden.",
+            "difficulty": 1
+        },
+        {
+            "term": "Paraşüt",
+            "hint": "Uçaktan atlayan birinin güvenle yere inmesini sağlayan dev şemsiye benzeri donanım.",
+            "difficulty": 1
+        },
+        {
+            "term": "Maymunlar Cehennemi",
+            "hint": "İnsanların tutsak, primatların hakim olduğu ünlü bir distopik film serisi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Birlikte duş almak",
+            "hint": "İki kişinin aynı anda yıkanma kabinini paylaşması.",
+            "difficulty": 2
+        },
+        {
+            "term": "Mavi ekran",
+            "hint": "Windows işletim sisteminin çöktüğünü gösteren klasik hata uyarısı.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kapalıçarşı",
+            "hint": "İstanbul'da bulunan, turistlerin çok ziyaret ettiği tarihi büyük alışveriş merkezi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Değnekçi",
+            "hint": "Otopark alanlarında veya sokaklarda yasadışı yollarla araçlardan ücret talep eden kişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Balık istifi",
+            "hint": "Kalabalık bir mekanda veya araçta insanların çok sıkışık durması durumu.",
+            "difficulty": 2
+        },
+        {
+            "term": "Sanayi tostu",
+            "hint": "Oto tamircilerinin bulunduğu sitelerde genelde bol malzemeli yapılan doyurucu atıştırmalık.",
+            "difficulty": 2
+        },
+        {
+            "term": "Şeytan tüyü",
+            "hint": "İnsanlara kendini kolayca sevdiren kişilerin sahip olduğuna inanılan çekicilik.",
+            "difficulty": 2
+        },
+        {
+            "term": "Format atmak",
+            "hint": "Bilgisayarın veya telefonun hafızasını tamamen silip sistemi sıfırdan kurmak.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kamera arkası",
+            "hint": "Bir filmin veya dizinin çekimleri sırasındaki hazırlıkları ve hataları gösteren kurgusuz görüntüler.",
+            "difficulty": 2
+        },
+        {
+            "term": "Bermuda Şeytan Üçgeni",
+            "hint": "Atlantik Okyanusu'nda pek çok gemi ve uçağın kaybolduğu iddia edilen gizemli bölge.",
+            "difficulty": 2
+        },
+        {
+            "term": "Saman nezlesi",
+            "hint": "Bahar aylarında polenlerin neden olduğu alerjik hapşırma ve burun akıntısı durumu.",
+            "difficulty": 2
+        },
+        {
+            "term": "İllüminati",
+            "hint": "Dünyayı gizlice yönettiği ve her şeyi kontrol ettiği iddia edilen popüler komplo teorisi örgütü.",
+            "difficulty": 2
+        },
+        {
+            "term": "Nazar boncuğu",
+            "hint": "Kötü enerjiden ve kem gözlerden koruduğuna inanılan mavi renkli cam obje.",
+            "difficulty": 2
+        },
+        {
+            "term": "Demirbaş",
+            "hint": "Bir kurumda kullanılan, kaydedilmiş ve kalıcı olan eşya veya bu özellikteki emektar kişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Mehir",
+            "hint": "İslami nikah sırasında erkeğin kadına vermeyi taahhüt ettiği maddi güvence.",
+            "difficulty": 3
+        },
+        {
+            "term": "Meksika açmazı",
+            "hint": "Üç veya daha fazla tarafın birbirine silah doğrulttuğu, kimsenin ilk hamleyi yapamadığı durum.",
+            "difficulty": 3
+        },
+        {
+            "term": "Sahte orgazm",
+            "hint": "Cinsel birliktelik sırasında aslında doruğa ulaşmamışken öyleymiş gibi davranmak.",
+            "difficulty": 3
+        },
+        {
+            "term": "Sayın Bezmenler",
+            "hint": "Doksanlı yıllarda ünlü bir muhabirin Amerika'daki baskın röportajında kullandığı efsanevi hitap şekli.",
+            "difficulty": 3
+        },
+        {
+            "term": "Aşil tendonu",
+            "hint": "Topuk kemiğini baldır kaslarına bağlayan, mitolojik bir savaşçının zayıf noktasından adını alan bağ.",
+            "difficulty": 3
+        },
+        {
+            "term": "Çekyat",
+            "hint": "Oturma odalarında gündüz koltuk, gece yatak olarak kullanılan mobilya.",
+            "difficulty": 1
+        },
+        {
+            "term": "Poşet",
+            "hint": "Market alışverişlerinde ürünleri taşımak için kullanılan naylon torba.",
+            "difficulty": 1
+        },
+        {
+            "term": "Mandalina",
+            "hint": "Kışın bolca tüketilen, turuncu renkli ve kolay soyulan narenciye.",
+            "difficulty": 1
+        },
+        {
+            "term": "Halı saha",
+            "hint": "Akşamları maç yapmak için kiralanan suni çim zeminli alan.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kumbara",
+            "hint": "İçinde bozuk para biriktirmek için kullanılan, üstü ince delikli kutu.",
+            "difficulty": 1
+        },
+        {
+            "term": "Dantel",
+            "hint": "Televizyon üstüne veya sehpalara örtülen ince iplik işlemesi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Ev terliği",
+            "hint": "Annelerin bazen sinirlenince fırlattığı, içeride giyilen ayaklık.",
+            "difficulty": 1
+        },
+        {
+            "term": "Zılgıt",
+            "hint": "Düğünlerde kadınların diliyle çıkardığı tiz ve neşeli ses.",
+            "difficulty": 1
+        },
+        {
+            "term": "Göbek deliği",
+            "hint": "Karın bölgesinin tam ortasında bulunan küçük çukur.",
+            "difficulty": 1
+        },
+        {
+            "term": "Vapur",
+            "hint": "İki yaka arasında insan taşıyan deniz taşıtı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kına gecesi",
+            "hint": "Evlenmeden bir gün önce gelin ve arkadaşlarının eğlenip ellerini boyadığı ritüel.",
+            "difficulty": 1
+        },
+        {
+            "term": "Mangal",
+            "hint": "Pikniklerde et pişirmek için kömür yakılan ızgaralı alet.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kolonya",
+            "hint": "Bayramlarda misafirlere dökülen, limon kokulu ve alkollü ferahlatıcı sıvı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Pazar arabası",
+            "hint": "Semt pazarlarından alınan sebze meyveyi taşımak için kullanılan tekerlekli çanta.",
+            "difficulty": 1
+        },
+        {
+            "term": "Çekirdek",
+            "hint": "Parklarda bankta otururken çıtlatılan, siyah ve çizgili tuzlu kabuklu yemiş.",
+            "difficulty": 1
+        },
+        {
+            "term": "Oklava",
+            "hint": "Hamur işi yaparken yufka açmaya yarayan uzun ince ahşap silindir.",
+            "difficulty": 1
+        },
+        {
+            "term": "Soba",
+            "hint": "Kışın içine odun veya kömür atılarak ısınılan metal ısıtıcı.",
+            "difficulty": 1
+        },
+        {
+            "term": "Düdüklü tencere",
+            "hint": "Yemekleri buhar basıncıyla çok hızlı pişiren kapalı mutfak eşyası.",
+            "difficulty": 1
+        },
+        {
+            "term": "Sıra dayağı",
+            "hint": "Okulda öğretmenin tüm öğrencileri yan yana dizip topluca cezalandırması.",
+            "difficulty": 1
+        },
+        {
+            "term": "Gece lambası",
+            "hint": "Karanlıktan korkan çocukların odasında sabaha kadar hafif ışık veren fişli alet.",
+            "difficulty": 1
+        },
+        {
+            "term": "Kopya",
+            "hint": "Sınavlarda gizlice başka bir kağıttan veya arkadaştan bilgi aktarma eylemi.",
+            "difficulty": 1
+        },
+        {
+            "term": "Tüp",
+            "hint": "Mutfaklarda ocakları yakmak için kullanılan, içi gaz dolu silindir tank.",
+            "difficulty": 1
+        },
+        {
+            "term": "Tavşan kanı",
+            "hint": "İyi demlenmiş sıcak içeceğin kırmızımsı rengini övmek için kullanılan benzetme.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kısır döngü",
+            "hint": "Bir sorunun çözülemeyip sürekli başa dönmesi ve tekrarlaması durumu.",
+            "difficulty": 2
+        },
+        {
+            "term": "Gıybet",
+            "hint": "Birinin arkasından, duyduğunda hoşlanmayacağı şekilde dedikodu yapmak.",
+            "difficulty": 2
+        },
+        {
+            "term": "Mahalle baskısı",
+            "hint": "Çevredeki insanların beklentileri ve eleştirileri nedeniyle kişinin hissettiği sosyal zorlama.",
+            "difficulty": 2
+        },
+        {
+            "term": "Ekşi Sözlük",
+            "hint": "İnternet kullanıcılarının her konuda başlık açıp yazar olarak yorum yaptığı köklü yerli platform.",
+            "difficulty": 2
+        },
+        {
+            "term": "Beyaz yaka",
+            "hint": "Plazalarda masa başı işlerde çalışan, ofis personeli.",
+            "difficulty": 2
+        },
+        {
+            "term": "Zula",
+            "hint": "Yasaklı veya gizli bir şeyi saklamak için oluşturulan kimsenin bilmediği bölme.",
+            "difficulty": 2
+        },
+        {
+            "term": "Afili",
+            "hint": "Gösterişli, havalı ve dış görünüşüyle dikkat çeken şeyler için söylenen kelime.",
+            "difficulty": 2
+        },
+        {
+            "term": "Kamyon arkası yazısı",
+            "hint": "Uzun yol şoförlerinin araçlarının arkasında yer alan özlü sözler.",
+            "difficulty": 2
+        },
+        {
+            "term": "Ters köşe",
+            "hint": "Filmlerde veya maçlarda, izleyiciyi hiç beklemediği bir sonuçla şaşırtma durumu.",
+            "difficulty": 2
+        },
+        {
+            "term": "Faturasız hat",
+            "hint": "Sabit bir aboneliği olmayan, içine bakiye yüklenerek kullanılan cep telefonu numarası tipi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Metrobüs",
+            "hint": "Kendi özel şeridinde giden, sürekli kalabalık olan uzun toplu taşıma aracı.",
+            "difficulty": 2
+        },
+        {
+            "term": "Plasebo",
+            "hint": "İçinde etken madde bulunmayan bir ilacın, hastanın iyileşeceğine inanması sayesinde işe yaraması.",
+            "difficulty": 2
+        },
+        {
+            "term": "Karaborsa",
+            "hint": "Piyasada bulunmayan bir malın yasadışı yollarla çok yüksek fiyata satılması.",
+            "difficulty": 2
+        },
+        {
+            "term": "Amigo",
+            "hint": "Maçlarda taraftarları coşturan ve tezahüratları yöneten lider kişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Cankurtaran",
+            "hint": "Plajlarda boğulma tehlikesi geçiren insanlara müdahale eden görevli.",
+            "difficulty": 2
+        },
+        {
+            "term": "Suflör",
+            "hint": "Tiyatro sahnesinde oyunculara repliklerini unuttuklarında gizlice fısıldayan kişi.",
+            "difficulty": 2
+        },
+        {
+            "term": "Makyavelizm",
+            "hint": "Amaca ulaşmak için ahlaki kuralları hiçe sayarak her türlü yolu mübah gören düşünce akımı.",
+            "difficulty": 3
+        }
+    ]
+}
